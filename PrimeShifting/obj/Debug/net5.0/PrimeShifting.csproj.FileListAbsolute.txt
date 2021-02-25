@@ -1,0 +1,15 @@
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.csprojAssemblyReference.cache
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.AssemblyInfoInputs.cache
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.AssemblyInfo.cs
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.csproj.CoreCompileInputs.cache
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/bin/Debug/net5.0/PrimeShifting.deps.json
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/bin/Debug/net5.0/PrimeShifting.runtimeconfig.json
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/bin/Debug/net5.0/PrimeShifting.runtimeconfig.dev.json
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/bin/Debug/net5.0/PrimeShifting.dll
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/bin/Debug/net5.0/ref/PrimeShifting.dll
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/bin/Debug/net5.0/PrimeShifting.pdb
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.dll
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/ref/PrimeShifting.dll
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.pdb
+/Users/Nick/Desktop/CSE-week-8/prime-shifting/PrimeShifting/obj/Debug/net5.0/PrimeShifting.genruntimeconfig.cache
